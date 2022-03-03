@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7447dec1-ab85-404a-bb5c-45e261dc2c67" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bioinf_tools/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/.idea/bioinf_tools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bioinf_tools/.idea/bioinf_tools.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/bioinf_tools/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/pricheck/check_tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/bioinf_tools/pricheck/check_tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/pricheck/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/bioinf_tools/pricheck/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/pricheck/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/bioinf_tools/pricheck/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/pricheck/primer_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/bioinf_tools/pricheck/primer_checker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/pricheck/scripts/check_tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/pricheck/scripts/primer_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/bioinf_tools/pricheck/scripts/primer_checker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/pricheck/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/bioinf_tools/pricheck/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/scripts/1_common variant_4_variant_confirmation_(3_with_primers_available).vcf" beforeDir="false" afterPath="$PROJECT_DIR$/bioinf_tools/files/1_common_variant_4_variant_confirmation_3_with_primers_available.vcf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/scripts/1_common_variant_3_variant_confirmations(primers available).vcf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/scripts/2_Common_variants_1_variant_confirmation_(no_primer).vcf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/scripts/BED_file2.bed" beforeDir="false" afterPath="$PROJECT_DIR$/bioinf_tools/files/BED_file2.bed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/scripts/BiomartServer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/scripts/VCF_interogation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/scripts/check_tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/scripts/primer_checker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/templates/pricheck/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bioinf_tools/templates/pricheck/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinf_tools/templates/pricheck/results.html" beforeDir="false" afterPath="$PROJECT_DIR$/bioinf_tools/templates/pricheck/results.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bioinf_tools" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25teABmg3iGGy2VqP6qfZAKhqGc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7447dec1-ab85-404a-bb5c-45e261dc2c67" name="Changes" comment="" />
+      <created>1646350665349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646350665349</updated>
+    </task>
+    <servers />
+  </component>
+</project>
