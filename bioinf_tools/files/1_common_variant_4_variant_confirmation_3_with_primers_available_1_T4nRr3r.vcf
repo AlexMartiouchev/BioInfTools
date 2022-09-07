@@ -1,0 +1,16 @@
+##fileformat=VCFv4.2
+##fileDate=20200806
+##fileEncoding=windows-1252
+##fileOrigin=/Server_Data/Hereditary Cancer Panel/SS_9999/Map & Call/9999-HC-BrCa_S9_L001_R1_001 (paired) batch/9999-HC-BrCa_S9_L001_R1_001 (paired)-intermediate/Add Information about Amino Acid Changes/Read Mapping-34927-2146533-HC-BrCa_S9_L001_R1_001 (paired, Variants, OA, MVF, KNOWN, FLANK, AAC)
+##source=CLC Genomics Server 11.0 build
+##reference=/CLC_References/homo_sapiens/sequence/hg19/Homo_sapiens_sequence_hg19
+##refOverlap=true
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Total number of filtered reads used to call variants at this position in this sample.">
+##FORMAT=<ID=CLCAD2,Number=R,Type=Integer,Description="Allele depth, number of filtered reads supporting the alleles, ordered as listed in REF and ALT.">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	Read_Mapping-9999-HC-BrCa_S9_L001_R1_001_(paired,_Variants,_OA,_MVF,_KNOWN,_FLANK,_AAC)
+2	166905375	.	A	G	200.00	.	.	GT:CLCAD2:DP	1/1:0,119:119
+9	131346190	.	A	G	200.00	.	.	GT:CLCAD2:DP	0/1:168,164:332
+15	89866691	.	C	G	200.00	.	.	GT:CLCAD2:DP	0/1:225,214:440
+16	23641488	.	G	A	200.00	.	.	GT:CLCAD2:DP	0/1:548,441:989
+X	153593616	.	G	A	200.00	.	.	GT:CLCAD2:DP	0/1:241,216:458

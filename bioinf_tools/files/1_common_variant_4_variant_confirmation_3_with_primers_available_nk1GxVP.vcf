@@ -1,0 +1,18 @@
+##fileformat=VCFv4.1
+##fileDate=20201215
+##fileEncoding=windows-1252
+##fileOrigin=/Epilepsy/SureSelect/SS_9999/Map & Call/9999-EPL-EPL_S8_L001_R1_001 (paired) batch/9999-EPL-EPL_S8_L001_R1_001 (paired) trimmed (paired) (Reads, Locally Realigned, Variants, MVF, RVOTR)
+##source=Biomedical Genomics Workbench 3.5.2 build 
+##reference=/CLC_References/homo_sapiens/sequence/hg19/Homo_sapiens_sequence_hg19
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Total number of filtered reads per sample used by variant caller">
+##FORMAT=<ID=CLCAD2,Number=.,Type=Integer,Description="Allelic depth, number of filtered reads supporting the alleles where the first element represents the reference and subsequent elements represent the alternatives in the order listed in the ALT column">
+##FORMAT=<ID=VF,Number=1,Type=Float,Description="Variant frequency, the percentage of reads supporting the alternate allele">
+##FORMAT=<ID=AD,Number=.,Type=Integer,Description="Allelic depth, unfiltered count of all reads">
+##FORMAT=<ID=AO,Number=A,Type=Integer,Description="Alternate allele observation count">
+##FORMAT=<ID=RO,Number=1,Type=Integer,Description="Reference allele observation count">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	9999-EPL-EPL_S8_L001_R1_001 (paired) trimmed (paired) (Reads, Locally Realigned, Variants, MVF, RVOTR)
+2	166905375	.	A	G	200.00	.	.	GT:CLCAD2:DP	1/1:0,119:119
+9	131346190	.	A	G	200.00	.	.	GT:CLCAD2:DP	0/1:168,164:332
+15	89866691	.	C	G	200.00	.	.	GT:CLCAD2:DP	0/1:225,214:440
+X	153593616	.	G	A	200.00	.	.	GT:CLCAD2:DP	0/1:241,216:458
